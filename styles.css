@@ -1,0 +1,22 @@
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(175, 223, 223);
+}
+
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: bisque;
+}
+
+.lasagna{
+    font-weight: bold;
+    color: red;
+}
+
+p, ul, ol{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a:hover{
+    font-weight: bold;
+}
